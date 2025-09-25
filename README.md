@@ -32,11 +32,20 @@ Deploy to Streamlit Sharing:
 1. Sign up at https://share.streamlit.io.
 2. Connect your GitHub account.
 3. Select this repo, set `app.py` as the main file, and deploy.
-4. Share the live URL (e.g., https://your-app-name.streamlit.app).
+4. Share the live URL (e.g., https://hexsoftwares-titanic-project.streamlit.app/).
 
 ## File Structure 📁
 
-HexSoftwares_Titanic_Project/ ├── app.py ├── pages/ │ ├── eda.py │ ├── model_training.py │ └── prediction.py ├── .streamlit/ │ └── config.toml ├── requirements.txt └── README.md
+HexSoftwares_Titanic_Project/ 
+├── app.py 
+├── pages/ 
+│ ├── eda.py 
+│ ├── model_training.py 
+│ └── prediction.py 
+├── .streamlit/ 
+│ └── config.toml 
+├── requirements.txt 
+└── README.md
 
 ## Contributions 🤝
 Fork and submit pull requests for improvements!
