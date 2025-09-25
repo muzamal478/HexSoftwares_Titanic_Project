@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#E694FF"  # Purple for buttons/links
+backgroundColor = "#00172B"  # Dark blue background
+secondaryBackgroundColor = "#0083B8"  # Blue for sidebars
+textColor = "#FAFAFA"  # White text
+font = "sans serif"
